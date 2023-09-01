@@ -1,7 +1,8 @@
 ## TJ Bui's First CS193 Homework
 
-- I like that you guys are studennts that have been through what we are going through so it is relatable
+- I like that you guys are students that have been through what we are going through so it is relatable
 - I also appreciate that you guys try to be enthusiastic when presenting to us
+- I think it's cool that you're a Swiftie
 
 ## Welcome to GitHub Pages
 
