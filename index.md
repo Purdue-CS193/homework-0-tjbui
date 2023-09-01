@@ -1,3 +1,8 @@
+## TJ Bui's First CS193 Homework
+
+- I like that you guys are studennts that have been through what we are going through so it is relatable
+- I also appreciate that you guys try to be enthusiastic when presenting to us
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
